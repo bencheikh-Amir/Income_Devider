@@ -12,7 +12,7 @@ description = "A desktop App for Income Dividing"
 slint = "1.6"
 [package.metadata.bundle]   
 name="Income Divider"
-identifier="io.github.Bencheikh-Amir.rust"
+identifier="io.github.Bencheikh-Amir.Income_Devider"
 description="A desktop App for Income Dividing"
 
 
